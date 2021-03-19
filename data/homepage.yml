@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "A gyógymód segít enyhíteni az ízületi fájdalmakat, és enyhíti a fizikai megterhelés utáni fáradtságot is"
-  content : "Ha eltalál, nyújtsa ki a lábát vagy mozdítsa el a karját - itt a légyölő galóca is hasznot húz. Azoknak ajánljuk, akiknek ízületei reagálnak az időjárásra. A krém lassítja az öregedésüket és táplálja a bőrt."
+  content : "A gyógymódot köszvény, reuma, ízületi gyulladás, artrózis és súlyos ízületi fájdalmak kezelésére alkalmazzák."
   image : "images/banner.png"
   # button
   button:
@@ -52,7 +52,7 @@ material:
 advantage:
   enable : true
   title : "A termékünk <br> használatának előnyei"
-  subtitle : "Consistencia de crema ultraligera y sin aceite"
+  subtitle : "A gyógymódot köszvény, reuma, ízületi gyulladás, artrózis és súlyos ízületi fájdalmak kezelésére alkalmazzák."
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
@@ -68,7 +68,7 @@ advantage:
 video:
   enable : true
   title : "A termék használata?"
-  content : "Vigyen fel egy kis krémet a problémás területre, és masszírozó mozdulatokkal dörzsölje be, amíg kellemes meleget nem érez. A hatás fokozása érdekében a fűtött területet száraz ruhával lehet becsomagolni. Naponta 1-2 alkalommal alkalmazza."
+  content : "Használati utasítás: orálisan vegyen be egy teáskanálnyit naponta, sok vízzel. Hígítható egy pohár vízben (50 ml)."
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
@@ -89,12 +89,12 @@ testimonial:
     - name : "Angela Perara"
       image : "images/clients/client-1.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Egy percen belül elkezd melegedni. Bokatörés után fizikoterápiára szedtem. Ne kenjen sokat, a bőr megég."
+      content : "köszönöm !!! Anyámnak vettem. Kellemes íz. Anya allergiás, szirupot iszik mellékhatások nélkül. Biztosan rendelek még. Köszönet!!!"
       rating : "five" # rating star, one to five
       
     # testimonial item loop
     - name : "Riya Ventilo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "súlyos fáradtsággal a térdeim mindig fájni kezdenek, és úgy tűnik, hogy elcsavarják őket ((((kacsa, ez a kenőcs enyhíti a tüneteket, nagyon jó! Mindenkinek ajánlom!)"
+      content : "Nagymamámnak vettem, nehéz neki tetszeni, de örül ennek az elixírnek. Kérte, rendeljek még!"
       rating : "three" # rating star, one to five
